@@ -1,0 +1,13 @@
+{
+  "manifest_version": 1,
+  "name": "Ygmailinator",
+  "description": "A chrome extension to add gmail shortcuts to yahoo mail.",
+  "version": "0.1",
+  "permissions": [
+    "mail.yahoo.com"
+  ],
+  "browser_action": {
+    "default_icon": "shark.png",
+    "default_popup": "popup.html"
+  }
+}
